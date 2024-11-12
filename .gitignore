@@ -1,0 +1,6 @@
+.vscode/
+docker-compose.yaml
+docker-volumes/
+kibana.yml
+mcs/
+secrets.md
